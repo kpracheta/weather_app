@@ -17,11 +17,12 @@ body{
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
+    align-items: center;
 }
 .search{
     max-width: 470px; 
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: space-between;
 }
 .search input{
