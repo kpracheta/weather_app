@@ -9,7 +9,7 @@ body{
 }
 
 .card{
-    width: 90%;
+    width: 90vw;
     max-width: 470px;
     background: linear-gradient(50deg, #071952, #088395);
     color: #fff;
@@ -19,7 +19,7 @@ body{
     text-align: center;
 }
 .search{
-    width: 100%;
+    width: 100vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
